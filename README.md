@@ -83,7 +83,7 @@ Student fees going to athletics rose **65%** from FY15 to FY25.
 The reports' notes explain how the amount is set: student fees are *"allocated to cover any overall Athletics operating deficit."*
 In other words, students pay whatever ticket sales, donations, NCAA and conference money don't cover.
 
-FY25 for scale:
+### FY25 for scale:
 
 - Other revenue: tickets $4.9M, contributions $5.9M, NCAA distributions $1.3M, sponsorships $1.8M, and only $2.2M of direct institutional support.
 - Athletic facility debt service: $10.3M.
@@ -97,7 +97,7 @@ These figures come from the [Knight-Newhouse College Athletics Database](https:/
 - JMU's 2025-26 athletics fee was $3,036 per student. The Virginia average was $1,967, UVA charged $823 and VT charged $832.
 - Athletic fees are the fastest-rising part of the cost of attending a Virginia public college: up 5.5% in the last year.
 
-Cardinal News articles:
+### Cardinal News articles:
 
 - [James Madison University generates more money from mandatory student fees for athletics than any other school in the nation](https://cardinalnews.org/2025/12/18/james-madison-university-generates-more-money-from-mandatory-student-fees-for-athletics-than-any-other-school-in-the-nation/) (2025-12-18)
 - [James Madison University stands out in College Football Playoff field. Its mandatory student fee for athletics is more than 4 times higher than all the other schools put together.](https://cardinalnews.org/2025/12/15/james-madison-university-stands-out-in-college-football-playoff-field-it-has-the-highest-mandatory-student-fee-for-athletics-by-far/) (2025-12-15)
