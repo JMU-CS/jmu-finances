@@ -1,0 +1,500 @@
+{
+	"student-costs": [
+		{
+			"semester": "Fall",
+			"type": "student itemized",
+			"name": "Tuition",
+			"in-state": 4075,
+			"out-state": 12748
+		},
+		{
+			"semester": "Fall",
+			"type": "student itemized",
+			"name": "Comprehensive Fees",
+			"in-state": 2908,
+			"out-state": 2908
+		},
+		{
+			"semester": "Fall",
+			"type": "student itemized",
+			"name": "Housing - On-Campus Room Rent",
+			"in-state": 3140,
+			"out-state": 3140
+		},
+		{
+			"semester": "Fall",
+			"type": "student itemized",
+			"name": "Internet Connection Fee",
+			"in-state": 138,
+			"out-state": 138
+		},
+		{
+			"semester": "Fall",
+			"type": "student itemized",
+			"name": "Meal Plan (All Access - 200 DD)",
+			"in-state": 3318,
+			"out-state": 3318
+		},
+		{
+			"semester": "Spring",
+			"type": "student itemized",
+			"name": "Tuition (12+ credits)",
+			"in-state": 4075,
+			"out-state": 12748
+		},
+		{
+			"semester": "Spring",
+			"type": "student itemized",
+			"name": "Comprehensive Fees",
+			"in-state": 2908,
+			"out-state": 2908
+		},
+		{
+			"semester": "Spring",
+			"type": "student itemized",
+			"name": "Housing - On-Campus Room Rent",
+			"in-state": 3140,
+			"out-state": 3140
+		},
+		{
+			"semester": "Spring",
+			"type": "student itemized",
+			"name": "Internet Connection Fee",
+			"in-state": 138,
+			"out-state": 138
+		},
+		{
+			"semester": "Spring",
+			"type": "student itemized",
+			"name": "Meal Plan (All Access - 200 DD)",
+			"in-state": 3318,
+			"out-state": 3318
+		},
+		{
+			"name": "Athletic Operations",
+			"type": "Intercollegiate Athletics",
+			"amount": 1798.27
+		},
+		{
+			"name": "Debt Service - Athletics",
+			"type": "Intercollegiate Athletics",
+			"amount": 563.45
+		},
+		{
+			"name": "Auxiliary Administration",
+			"type": "Auxiliary Service",
+			"amount": 62.14
+		},
+		{
+			"name": "Breeze Administration",
+			"type": "Auxiliary Service",
+			"amount": 5.85
+		},
+		{
+			"name": "Budget Management",
+			"type": "Auxiliary Service",
+			"amount": 7.90
+		},
+		{
+			"name": "Business Services",
+			"type": "Auxiliary Service",
+			"amount": 22.88
+		},
+		{
+			"name": "Campus Police",
+			"type": "Auxiliary Service",
+			"amount": 29.76
+		},
+		{
+			"name": "Controller",
+			"type": "Auxiliary Service",
+			"amount": 15.67
+		},
+		{
+			"name": "Dean Of Students",
+			"type": "Auxiliary Service",
+			"amount": 33.19
+		},
+		{
+			"name": "Employee Appreciation",
+			"type": "Auxiliary Service",
+			"amount": 0.37
+		},
+		{
+			"name": "Facilities Management",
+			"type": "Auxiliary Service",
+			"amount": 44.06
+		},
+		{
+			"name": "Family Engagement",
+			"type": "Auxiliary Service",
+			"amount": 19.69
+		},
+		{
+			"name": "General Expense",
+			"type": "Auxiliary Service",
+			"amount": 5.41
+		},
+		{
+			"name": "General Insurance",
+			"type": "Auxiliary Service",
+			"amount": 0.54
+		},
+		{
+			"name": "Human Resources",
+			"type": "Auxiliary Service",
+			"amount": 13.50
+		},
+		{
+			"name": "Information Technology",
+			"type": "Auxiliary Service",
+			"amount": 8.29
+		},
+		{
+			"name": "International Programs",
+			"type": "Auxiliary Service",
+			"amount": 13.48
+		},
+		{
+			"name": "Mandatory Indirect Cost to E&G",
+			"type": "Auxiliary Service",
+			"amount": 506.31
+		},
+		{
+			"name": "OSARP",
+			"type": "Auxiliary Service",
+			"amount": 47.41
+		},
+		{
+			"name": "Payroll",
+			"type": "Auxiliary Service",
+			"amount": 3.37
+		},
+		{
+			"name": "Procurement",
+			"type": "Auxiliary Service",
+			"amount": 6.58
+		},
+		{
+			"name": "Scholarships",
+			"type": "Auxiliary Service",
+			"amount": 204.12
+		},
+		{
+			"name": "Student Affairs Support",
+			"type": "Auxiliary Service",
+			"amount": 6.39
+		},
+		{
+			"name": "Transportation Support",
+			"type": "Auxiliary Service",
+			"amount": 4.50
+		},
+		{
+			"name": "University Events",
+			"type": "Auxiliary Service",
+			"amount": 9.63
+		},
+		{
+			"name": "AUBC",
+			"type": "Facilities",
+			"amount": 91.43
+		},
+		{
+			"name": "Bridgeforth",
+			"type": "Facilities",
+			"amount": 63.54
+		},
+		{
+			"name": "Convocation Center",
+			"type": "Facilities",
+			"amount": 70.91
+		},
+		{
+			"name": "Debt Service - Other",
+			"type": "Facilities",
+			"amount": 379.84
+		},
+		{
+			"name": "Facilities Management",
+			"type": "Facilities",
+			"amount": 13.08
+		},
+		{
+			"name": "Facility Reserves",
+			"type": "Facilities",
+			"amount": 73.78
+		},
+		{
+			"name": "Godwin Hall",
+			"type": "Facilities",
+			"amount": 38.13
+		},
+		{
+			"name": "Operating Reserves",
+			"type": "Facilities",
+			"amount": 68.08
+		},
+		{
+			"name": "Plecker Athletic Performance Center",
+			"type": "Facilities",
+			"amount": 22.96
+		},
+		{
+			"name": "Studies Abroad",
+			"type": "Facilities",
+			"amount": 20.90
+		},
+		{
+			"name": "Student Health Center",
+			"type": "Student Health Services",
+			"amount": 269.31
+		},
+		{
+			"name": "UREC Health Promotion",
+			"type": "Student Health Services",
+			"amount": 28.55
+		},
+		{
+			"name": "Community Service-Learning",
+			"type": "Student Activity",
+			"amount": 22.65
+		},
+		{
+			"name": "Career, Experiential Leaming and Transition",
+			"type": "Student Activity",
+			"amount": 10.98
+		},
+		{
+			"name": "Diversity Equity and Inclusion",
+			"type": "Student Activity",
+			"amount": 35.04
+		},
+		{
+			"name": "DUX Leadership",
+			"type": "Student Activity",
+			"amount": 7.68
+		},
+		{
+			"name": "Event Management",
+			"type": "Student Activity",
+			"amount": 3.94
+		},
+		{
+			"name": "Festival Conference and Student Center",
+			"type": "Student Activity",
+			"amount": 36.80
+		},
+		{
+			"name": "Fraternity & Sorority Life",
+			"type": "Student Activity",
+			"amount": 6.49
+		},
+		{
+			"name": "Homecoming",
+			"type": "Student Activity",
+			"amount": 4.51
+		},
+		{
+			"name": "Madipalooza",
+			"type": "Student Activity",
+			"amount": 5.52
+		},
+		{
+			"name": "Marching Royal Dukes",
+			"type": "Student Activity",
+			"amount": 55.95
+		},
+		{
+			"name": "Multicultural Student Services",
+			"type": "Student Activity",
+			"amount": 9.49
+		},
+		{
+			"name": "Orientation",
+			"type": "Student Activity",
+			"amount": 15.14
+		},
+		{
+			"name": "SAIL/Organizational Development",
+			"type": "Student Activity",
+			"amount": 15.46
+		},
+		{
+			"name": "Student Affairs Support",
+			"type": "Student Activity",
+			"amount": 12.00
+		},
+		{
+			"name": "Student Life",
+			"type": "Student Activity",
+			"amount": 57.70
+		},
+		{
+			"name": "Student Wellness",
+			"type": "Student Activity",
+			"amount": 9.68
+		},
+		{
+			"name": "University Unions",
+			"type": "Student Activity",
+			"amount": 169.81
+		},
+		{
+			"name": "UREC",
+			"type": "Student Activity",
+			"amount": 443.57
+		},
+		{
+			"name": "Bus Service",
+			"type": "Transportation",
+			"amount": 118.39
+		}
+	],
+	"jmu-revenues": [
+		{
+			"name": "State appropriations",
+			"type": "Nonoperating revenues (expenses)",
+			"2023": 145185,
+			"2022": 139725,
+			"delta": 5460,
+			"deltaPercent": "3.9%"
+		},
+		{
+			"name": "Grants and Contracts",
+			"type": "Nonoperating revenues (expenses)",
+			"2023": 19990,
+			"2022": 46212,
+			"delta": -26222,
+			"deltaPercent": "-56.7%"
+		},
+		{
+			"name": "OPEB-related contribution revenue",
+			"type": "Nonoperating revenues (expenses)",
+			"2023": 6601,
+			"2022": 1069,
+			"delta": 5532,
+			"deltaPercent": "517.5%"
+		},
+		{
+			"name": "Investment Income",
+			"type": "Nonoperating revenues (expenses)",
+			"2023": 5356,
+			"2022": 630,
+			"delta": 4726,
+			"deltaPercent": "750.2%"
+		},
+		{
+			"name": "Interest on capital asset related debt",
+			"type": "Nonoperating revenues (expenses)",
+			"2023": -12950,
+			"2022": -13541,
+			"delta": 591,
+			"deltaPercent": "4.4%"
+		},
+		{
+			"name": "Gain (loss) on disposal of plant assets",
+			"type": "Nonoperating revenues (expenses)",
+			"2023": -655,
+			"2022": -257,
+			"delta": -398,
+			"deltaPercent": "-154.9%"
+		},
+		{
+			"name": "Payments to the Commonwealth",
+			"type": "Nonoperating revenues (expenses)",
+			"2023": -3098,
+			"2022": -3098,
+			"delta": 0,
+			"deltaPercent": "0.0%"
+		},
+		{
+			"name": "Capital appropriations and contributions",
+			"type": "Income (loss) before other revenues, expenses, gains, or losses",
+			"2023": 155746,
+			"2022": 11817,
+			"delta": 143929,
+			"deltaPercent": "1218.0%"
+		},
+		{
+			"name": "Capital gifts",
+			"type": "Income (loss) before other revenues, expenses, gains, or losses",
+			"2023": 5873,
+			"2022": 1314,
+			"delta": 4559,
+			"deltaPercent": "347.0%"
+		},
+		{
+			"name": "Student tuition and fees, net",
+			"type": "Operating revenues",
+			"2023": 235832,
+			"2022": 232347,
+			"delta": 3485,
+			"deltaPercent": "$ 1.5%"
+		},
+		{
+			"name": "Grants and contracts",
+			"type": "Operating revenues",
+			"2023": 43535,
+			"2022": 40811,
+			"delta": 2724,
+			"deltaPercent": "6.7%"
+		},
+		{
+			"name": "Auxiliary enterprises, net",
+			"type": "Operating revenues",
+			"2023": 212408,
+			"2022": 202346,
+			"delta": 10062,
+			"deltaPercent": "5.0%"
+		},
+		{
+			"name": "Other operating revenues",
+			"type": "Operating revenues",
+			"2023": 5855,
+			"2022": 4977,
+			"delta": 878,
+			"deltaPercent": "17.6%"
+		},
+		{
+			"name": "State appropriations",
+			"type": "Nonoperating revenues",
+			"2023": 145185,
+			"2022": 139725,
+			"delta": 5460,
+			"deltaPercent": "3.9%"
+		},
+		{
+			"name": "Grants and contracts",
+			"type": "Nonoperating revenues",
+			"2023": 19990,
+			"2022": 46212,
+			"delta": -26222,
+			"deltaPercent": "-56.7%"
+		},
+		{
+			"name": "Other nonoperating revenue",
+			"type": "Nonoperating revenues",
+			"2023": 11959,
+			"2022": 1701,
+			"delta": 10258,
+			"deltaPercent": "603.1%"
+		},
+		{
+			"name": "Capital appropriations and contributions",
+			"type": "Other revenues",
+			"2023": 155746,
+			"2022": 11817,
+			"delta": 143929,
+			"deltaPercent": "1218.0%"
+		},
+		{
+			"name": "Capital gifts",
+			"type": "Other revenues",
+			"2023": 5873,
+			"2022": 1314,
+			"delta": 4559,
+			"deltaPercent": "347.0%"
+		}
+	]
+}
